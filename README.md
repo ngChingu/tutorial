@@ -1,9 +1,9 @@
 # Angular 2 Getting Started Guide
 
 ## Table of Contents
-1.  [Books](#Books)
-2.  [Tutorials](#Tutorials)
-3.  [Courses](#Courses)
+1.  [Books](#books)
+2.  [Tutorials](#tutorials)
+3.  [Courses](#courses)
 
 # Books
 
